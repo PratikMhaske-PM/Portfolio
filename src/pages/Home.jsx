@@ -14,7 +14,7 @@ function Home() {
           <p>I build exceptional digital experiences that live at the intersection of design and technology.</p>
           <div className="hero-buttons">
             <a href="#Projects" className="btn">View My Work</a>
-            <a href="#Contact" className="btn btn-outline">Contact Me</a>
+            <a href="tel:+919529214473" className="btn btn-outline">Contact Me</a>
           </div>
         </div>
         <div className="hero-image">
@@ -114,7 +114,7 @@ function Home() {
       <section id="contact" className="cta-section">
         <h2>Ready to start a project?</h2>
         <p>Let's create something amazing together.</p>
-        <a href='#Contact' className="btn">Get in Touch</a>
+        <a href="tel:+919529214473" className="btn">Get in Touch</a>
       </section>
     </div>
   );
