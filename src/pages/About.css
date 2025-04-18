@@ -787,10 +787,12 @@ body {
   
   .about-content h2 {
     font-size: 1.8rem;
+
+
   }
   
   .personal-info {
-    padding: 1.5rem;
+    padding: 1.2rem;
   }
   
   .about-buttons {
